@@ -1,0 +1,31 @@
+html{
+    background-color: #1F282D;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.pageImages{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Moon{
+    margin-bottom: 50px;
+    margin-left: 190px;
+    margin-right: 50px;
+}
